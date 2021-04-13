@@ -12,14 +12,14 @@
 </p>
 <div align='center' size='50px'> Hi! My name is Emanuele Pace. Thank You for taking the time to view my GitHub Profile :smile: 
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+<h2> About Me </h2>
 
-- :blue_book: I graduated from [Makers Academy](https://www.makers.tech), an immersive cooding bootcamp
-- :computer: I’m currently learning React and NodeJS
-- :office: I’m actively looking for a Junior Software Developer position
-- 🤔 Always interested in finding new studying sources
-- :spaghetti: Fun fact: I prepare the best pasta recipes
-- ⚡ My [Git-Hub](https://github.com/Emanuele-20/CV) CV is ready to be viewed, give it a shot
+ :blue_book: I graduated from [Makers Academy](https://www.makers.tech), an immersive cooding bootcamp
+ :computer: I’m currently learning React and NodeJS
+ :office: I’m actively looking for a Junior Software Developer position
+ 🤔 Always interested in finding new studying sources
+ :spaghetti: Fun fact: I prepare the best pasta recipes
+ ⚡ My [Git-Hub](https://github.com/Emanuele-20/CV) CV is ready to be viewed, give it a shot
 
 <h2 align='center'> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align = 'center'>
