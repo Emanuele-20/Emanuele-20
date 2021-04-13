@@ -6,7 +6,7 @@
 
 <br>
 
-<h2 align='center'> About Me </h2>
+<h2 align='left'> About Me </h2>
 
 
 - :blue_book:  I graduated from [Makers Academy](https://www.makers.tech), an immersive cooding bootcamp
@@ -20,7 +20,7 @@
 <br/>
 
 </div>
-<h2 align='center'> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<h2 align='left'> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
 
   
