@@ -19,21 +19,22 @@
 <p/>:office: I’m actively looking for a Junior Software Developer position
 <p/>🤔 Always interested in finding new studying sources
 <p/>:spaghetti: Fun fact: I prepare the best pasta recipes
-<p/> ⚡ My [Git-Hub](https://github.com/Emanuele-20/CV) CV is ready to be viewed, give it a shot
+<p/> ⚡ My[Git-Hub](https://github.com/Emanuele-20/CV) CV is ready to be viewed, give it a shot
 
 <h2 align='center'> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+
 <p align = 'center'>
   
-<a href ='mailto:emanuele.10@outlook.com'> <img align="center" alt="Outlook" width="44px" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Outlook.com_icon.svg"/>
+<a href ='mailto:emanuele.10@outlook.com'> <img alt="Outlook" width="44px" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Outlook.com_icon.svg"/>
 
-<a href = 'https://www.linkedin.com/in/https://www.linkedin.com/in/emanuele-pace10/'> <img width = '44px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/>
+<a href = 'https://www.linkedin.com/in/https://www.linkedin.com/in/emanuele-pace10/'> <img width = '44px'  src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/>
 
-<a href = 'https://www.github.com/https://github.com/Emanuele-20'> <img width = '44px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/>
-
-
+<a href = 'https://www.github.com/https://github.com/Emanuele-20'> <img width = '44px' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/>
 
 
 </p>
+
+
 </div>
 
 <h2 align='center'> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 50px> </h2>
