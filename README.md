@@ -25,6 +25,8 @@
 
   
 [<img style="padding-right: 20px; padding left: 20px;" align="center" alt="Emanuele | LinkedIn" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg" target='_blank'/>](https://www.linkedin.com/in/emanuele-pace10/)
+
+
 [<img style="padding-right: 20px; padding left: 20px;" align="center" alt="Emanuele | Outlook" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Outlook.com_icon.svg" />](mailto:emanuele.10b@outlook.com)
 
 
