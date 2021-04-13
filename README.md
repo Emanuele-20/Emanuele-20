@@ -1,10 +1,10 @@
 ### Hi there 👋 I'm Emanuele ....
 
-## Welcome on my Git-Hub page 
+## Welcome to my Git-Hub page 
 
 
 
-- :blue_book: I graduated from [Makers](https://www.makers.tech), an amazing and intense cooding bootcamp
+- :blue_book: I graduated from [Makers Academy](https://www.makers.tech), and intense cooding bootcamp
 - :computer: I’m currently learning React and NodeJS
 - :office: I’m looking for a Junior Software Developer position
 - 🤔 Always interest on new study sources
