@@ -23,10 +23,10 @@
 <h2 align='center'> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
 
-<div align='center'>
+  
 [<img style="padding-right: 20px; padding left: 20px;" align="center" alt="Emanuele | LinkedIn" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg" target='_blank'/>](https://www.linkedin.com/in/emanuele-pace10/)
 [<img style="padding-right: 20px; padding left: 20px;" align="center" alt="Emanuele | Outlook" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Outlook.com_icon.svg" />](mailto:emanuele.10b@outlook.com)
-</div>
+
 
 
 
@@ -35,7 +35,7 @@
 
 <h2 align='center'> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 50px> </h2>
 
-<p align = 'center'>
+<p align = 'left'>
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'>
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'>
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'>
