@@ -10,9 +10,9 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/Emanuele-20.https://github.com/Emanuele-20)
 
 </p>
-<div align='center' size='50px'> Hi! My name is Emanuele Pace. Thank You for taking the time to view my GitHub Profile :smile: 
+<div <!-- align='center' --> size='50px'> Hi! My name is Emanuele Pace. Thank You for taking the time to view my GitHub Profile :smile: 
 
-<h2> About Me </h2>
+
 
 <p align='left'>
 - :blue_book: I graduated from [Makers Academy](https://www.makers.tech), an immersive cooding bootcamp
@@ -21,7 +21,7 @@
 - 🤔 Always interested in finding new studying sources
 - :spaghetti: Fun fact: I prepare the best pasta recipes
 - ⚡ My[Git-Hub](https://github.com/Emanuele-20/CV) CV is ready to be viewed, give it a shot
-</p>
+
 
 <br/>
 
