@@ -25,7 +25,7 @@
 
 <p align = 'center'>
   
-<a href ='mailto:emanuele.10@outlook.com'> <img alt="Outlook" width="44px" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Outlook.com_icon.svg"/>   <a href = 'https://www.linkedin.com/in/https://www.linkedin.com/in/emanuele-pace10/'> <img width = '44px'  src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/>
+<a href ='mailto:emanuele.10@outlook.com'> <img style="padding: 20px" alt="Outlook" width="44px" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Outlook.com_icon.svg"/>   <a href = 'https://www.linkedin.com/in/https://www.linkedin.com/in/emanuele-pace10/'> <img width = '44px'  src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/>
 
 <a href = 'https://www.github.com/https://github.com/Emanuele-20'> <img width = '44px' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/>
 
