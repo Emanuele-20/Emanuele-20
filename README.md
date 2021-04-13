@@ -14,7 +14,7 @@
 
 <h2> About Me </h2>
 
-<p>
+<p align='left'>
 - :blue_book: I graduated from [Makers Academy](https://www.makers.tech), an immersive cooding bootcamp
 - :computer: I’m currently learning React and NodeJS
 - :office: I’m actively looking for a Junior Software Developer position
