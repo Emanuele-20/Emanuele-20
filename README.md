@@ -5,12 +5,8 @@
 </div>
 -->
 
-<h1 align='center'> Hello World <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
-<p align='center'>
+<h1 align='center'> Hello World <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 
-
-
-</p>
 <div align='center' size='50px'> Hi! My name is Emanuele Pace. Thank You for taking the time to view my GitHub Profile :smile:>
 
 <br/>
