@@ -7,7 +7,8 @@
 
 <h1 align='center'> Hello World <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 
-<div align='left' size='100px'> My name is Emanuele Pace. Thank You for taking the time to view my GitHub Profile :smile: 
+<p align='center' >My name is Emanuele Pace. Thank You for taking the time to view my GitHub Profile :smile: </p>
+<div align='left' size='100px'> 
 
 <br>
 <br>
