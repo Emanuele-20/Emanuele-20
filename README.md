@@ -24,7 +24,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/Emanuele-20.https://github.com/Emanuele-20)
 
 </p>
-<div size='20px'> Hi! My name is Emanuele Pace. Thank You for taking the time to view my GitHub Profile :smile: 
+<div align='center' size='50px'> Hi! My name is Emanuele Pace. Thank You for taking the time to view my GitHub Profile :smile: 
 <h2 align='center'> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align = 'center'>
 <a href = 'https://www.linkedin.com/in/https://www.linkedin.com/in/emanuele-pace10/'> <img width = '44px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
