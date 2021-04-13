@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Emanuele ....
 
-Hello, I'm Emanuele a software developer student.
-
+Welcome on my Git-Hub page 
 [![Ema's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emanuele-20)](https://github.com/anuraghazra/github-readme-stats)
 
 
