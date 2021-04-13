@@ -1,10 +1,3 @@
-
-<!--
-<div align="center">
-<img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" alt="cover" />
-</div>
--->
-
 <h1 align='center'> Hello World <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 
 <p align='center' size='60px' >My name is Emanuele Pace. Thank You for taking the time to view my GitHub Profile :smile: </p>
@@ -12,6 +5,7 @@
 <div align='left' size='100px'> 
 
 <br>
+
 <h2 align='center'> About Me </h2>
 
 
@@ -27,20 +21,10 @@
 
 <h2 align='center'> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
-<p style="padding: 30px"> 
+<p> 
   
-<a href ='mailto:emanuele.10@outlook.com'> 
-<img style="padding: 100px" width="44px" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Outlook.com_icon.svg"/>  
-  
-<a style="padding: 100px" href='https://www.linkedin.com/in/https://www.linkedin.com/in/emanuele-pace10/'>
-<img style="padding: 100px" width = '44px' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/>  
-  
-<a href='https://www.github.com/https://github.com/Emanuele-20'>
-<img style="padding: 100px" width = '44px' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/>
-
-
-[<img align="center" alt="Emanuele | LinkedIn" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg" target='_blank'/>](https://www.linkedin.com/in/emanuele-pace10/)
-[<img align="center" alt="Emanuele | Outlook" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Outlook.com_icon.svg" />](mailto:emanuele.10b@outlook.com)
+[<img style="padding-right: 20px; padding left: 20px;" align="center" alt="Emanuele | LinkedIn" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg" target='_blank'/>](https://www.linkedin.com/in/emanuele-pace10/)
+[<img style="padding-right: 20px; padding left: 20px;" align="center" alt="Emanuele | Outlook" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Outlook.com_icon.svg" />](mailto:emanuele.10b@outlook.com)
 
 
 </p>
