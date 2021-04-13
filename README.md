@@ -11,6 +11,7 @@
 
 <br>
 <br>
+<h2 align='center'> About Me </h2>
 
 
 - :blue_book: I graduated from [Makers Academy](https://www.makers.tech), an immersive cooding bootcamp
