@@ -12,7 +12,6 @@
 <div align='left' size='100px'> 
 
 <br>
-<br>
 <h2 align='center'> About Me </h2>
 
 
