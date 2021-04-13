@@ -24,7 +24,7 @@
 
 <h2 align='center'> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
-<p> 
+<p style="padding: 30px"> 
   
 <a href ='mailto:emanuele.10@outlook.com'> 
 <img style="padding: 20px" width="44px" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Outlook.com_icon.svg"/>  
