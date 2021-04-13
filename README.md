@@ -9,8 +9,8 @@
 
 <div align='left' size='100px'> My name is Emanuele Pace. Thank You for taking the time to view my GitHub Profile :smile: 
 
-<br/>
-
+<br>
+<br>
 
 
 - :blue_book: I graduated from [Makers Academy](https://www.makers.tech), an immersive cooding bootcamp
