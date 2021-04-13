@@ -4,12 +4,7 @@
 
 
 
-- :blue_book: I graduated from [Makers Academy](https://www.makers.tech), an immersive cooding bootcamp
-- :computer: I’m currently learning React and NodeJS
-- :office: I’m actively looking for a Junior Software Developer position
-- 🤔 Always interested in finding new studying sources
-- :spaghetti: Fun fact: I prepare the best pasta recipes
-- ⚡ My [Git-Hub](https://github.com/Emanuele-20/CV) CV is ready to be viewed, give it a shot
+
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/emanuele-pace10/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="mailto:emanuele.10@utlook.it"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a> <a href="https://github.com/Emanuele-20"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt=""></a>
@@ -57,13 +52,12 @@
 </div>
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
-- 🔭 I’m currently working on 
-
-- 🌱 I’m currently learning  
-
-- 👯 I’m looking to collaborate on  
-
-- 💬 Talk to me about  
+- :blue_book: I graduated from [Makers Academy](https://www.makers.tech), an immersive cooding bootcamp
+- :computer: I’m currently learning React and NodeJS
+- :office: I’m actively looking for a Junior Software Developer position
+- 🤔 Always interested in finding new studying sources
+- :spaghetti: Fun fact: I prepare the best pasta recipes
+- ⚡ My [Git-Hub](https://github.com/Emanuele-20/CV) CV is ready to be viewed, give it a shot
 
 
 
