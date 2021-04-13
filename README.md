@@ -10,7 +10,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/Emanuele-20.https://github.com/Emanuele-20)
 
 </p>
-<div <!-- align='center' --> size='50px'> Hi! My name is Emanuele Pace. Thank You for taking the time to view my GitHub Profile :smile: 
+<div align='center' size='50px'> Hi! My name is Emanuele Pace. Thank You for taking the time to view my GitHub Profile :smile: 
 
 
 
