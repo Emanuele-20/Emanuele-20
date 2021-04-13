@@ -1,20 +1,21 @@
 
-
+<!--
 <div align="center">
 <img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" alt="cover" />
 </div>
+-->
 
 <h1 align='center'> Hello World <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/Emanuele-20.https://github.com/Emanuele-20)
+
 
 </p>
 <div align='center' size='50px'> Hi! My name is Emanuele Pace. Thank You for taking the time to view my GitHub Profile :smile: 
 
 
 
-<p align='left'>
+
 - :blue_book: I graduated from [Makers Academy](https://www.makers.tech), an immersive cooding bootcamp
 - :computer: I’m currently learning React and NodeJS
 - :office: I’m actively looking for a Junior Software Developer position
@@ -63,4 +64,4 @@
 
 
 [![Ema's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emanuele-20)](https://github.com/anuraghazra/github-readme-stats)
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/Emanuele-20.https://github.com/Emanuele-20)
