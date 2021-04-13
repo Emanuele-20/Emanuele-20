@@ -23,8 +23,12 @@
 
 <h2 align='center'> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align = 'center'>
+<a href = "https://upload.wikimedia.org/wikipedia/commons/4/48/Outlook.com_icon.svg" /> 
 <a href = 'https://www.linkedin.com/in/https://www.linkedin.com/in/emanuele-pace10/'> <img width = '44px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.github.com/https://github.com/Emanuele-20'> <img width = '44px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+
+
+
 
 </p>
 </div>
