@@ -8,14 +8,14 @@
 
 <h2 align='center'> About Me </h2>
 
-<div align='center'>
+
 - :blue_book: I graduated from [Makers Academy](https://www.makers.tech), an immersive cooding bootcamp
 - :computer: I’m currently learning React and NodeJS
 - :office: I’m actively looking for a Junior Software Developer position
 - 🤔 Always interested in finding new studying sources
 - :spaghetti: Fun fact: I prepare the best pasta recipes
 - ⚡ My[Git-Hub](https://github.com/Emanuele-20/CV) CV is ready to be viewed, give it a shot
-</div>
+
 
 <br/>
 
