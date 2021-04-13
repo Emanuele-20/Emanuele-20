@@ -1,6 +1,6 @@
 <h1 align='center'> Hello World <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 
-<h2 align='center' size='60px' >I'm Emanuele Pace. Thank You for taking the time to view my GitHub Profile :smile: </h2>
+<h3 align='center' size='60px' >I'm Emanuele Pace. Thank You for taking the time to view my GitHub Profile :smile: </h3>
 
 <div align='left' size='100px'> 
 
