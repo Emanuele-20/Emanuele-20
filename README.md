@@ -14,12 +14,12 @@
 
 <h2> About Me </h2>
 
-<p/>:blue_book: I graduated from [Makers Academy](https://www.makers.tech), an immersive cooding bootcamp
-<p/>:computer: I’m currently learning React and NodeJS
-<p/>:office: I’m actively looking for a Junior Software Developer position
-<p/>🤔 Always interested in finding new studying sources
-<p/>:spaghetti: Fun fact: I prepare the best pasta recipes
-<p/> ⚡ My[Git-Hub](https://github.com/Emanuele-20/CV) CV is ready to be viewed, give it a shot
+:blue_book: I graduated from [Makers Academy](https://www.makers.tech), an immersive cooding bootcamp
+:computer: I’m currently learning React and NodeJS
+:office: I’m actively looking for a Junior Software Developer position
+🤔 Always interested in finding new studying sources
+:spaghetti: Fun fact: I prepare the best pasta recipes
+ ⚡ My[Git-Hub](https://github.com/Emanuele-20/CV) CV is ready to be viewed, give it a shot
 <br/>
 
 <h2 align='center'> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
