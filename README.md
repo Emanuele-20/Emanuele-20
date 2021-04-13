@@ -12,7 +12,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on nice and interesting front-end project
-- 🌱 I’m currently learning React and NodeJS
+- :computer: I’m currently learning React and NodeJS
 - :office: I’m currently looking for a Junior Software Developer position
 - 🤔 I’m looking for help with interesting new study sources
 - 😄 Pronouns: He/His
