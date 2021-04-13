@@ -2,7 +2,7 @@
 
 <p align='center' size='60px' >My name is Emanuele Pace. Thank You for taking the time to view my GitHub Profile :smile: </p>
 
-<div align='center' size='100px'> 
+<div align='left' size='100px'> 
 
 <br>
 
