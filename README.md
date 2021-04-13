@@ -9,7 +9,7 @@
 ## Connect with me:
 <a href="https://www.linkedin.com/in/emanuele-pace10/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="mailto:emanuele.10@utlook.it"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a> <a href="https://github.com/Emanuele-20"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt=""></a>
 
-[![Ema's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emanuele-20)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
@@ -59,18 +59,7 @@
 
 
 
-
-<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='75px'> </h2>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=https://github.com/Emanuele-20&count_private=true&show_icons=true&theme=default" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Emanuele-20&theme=default" />
-</a>
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
+[![Ema's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emanuele-20)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
