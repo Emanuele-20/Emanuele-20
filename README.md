@@ -39,9 +39,10 @@
 <img style="padding: 100px" width = '44px' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/>
 
 
-[<img align="center" alt="Emanuele | LinkedIn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg" target='_blank'/>](https://www.linkedin.com/in/emanuele-pace10/)
-[<img align="center" alt="Emanuele | Outlook" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Outlook.com_icon.svg" />](mailto:emanuele.10b@outlook.com)
-[<img align="center" alt="Emanuele | GitHub" width="30px" src="https://commons.wikimedia.org/wiki/File:Font_Awesome_5_brands_github-square.svg" />](https://github.com/Emanuele-20)
+[<img align="center" alt="Emanuele | LinkedIn" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg" target='_blank'/>](https://www.linkedin.com/in/emanuele-pace10/)
+[<img align="center" alt="Emanuele | Outlook" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Outlook.com_icon.svg" />](mailto:emanuele.10b@outlook.com)
+
+
 </p>
 
 
