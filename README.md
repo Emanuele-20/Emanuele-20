@@ -7,7 +7,7 @@
 - :blue_book: I graduated from [Makers](https://www.makers.tech), an amazing and intense cooding bootcamp
 - :computer: I’m currently learning React and NodeJS
 - :office: I’m looking for a Junior Software Developer position
-- 🤔 Share with me interesting new study sources
+- 🤔 Always interest on new study sources
 - 😄 Pronouns: He/His
 - :spaghetti: Fun fact: I prepare the best pasta recipes
 - ⚡ My Git-Hub CV is ready to be read, give it a shot
