@@ -12,7 +12,7 @@
 - :blue_book:  I graduated from [Makers Academy](https://www.makers.tech), an immersive cooding bootcamp
 - :computer:  I’m currently learning React and NodeJS
 - :office:  I’m actively looking for a Junior Software Developer position
-- 🤔  Always interested in finding new studying sources
+- 🤔  Always interested in finding new studying sources and approaches 
 - :spaghetti: Fun fact: I prepare the best pasta recipes ever
 - ⚡ My [Git-Hub CV](https://github.com/Emanuele-20/CV)  is ready to be viewed, give it a shot
 
