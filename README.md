@@ -10,7 +10,7 @@
 
 
 - :blue_book:  I graduated from [Makers Academy](https://www.makers.tech), an immersive cooding bootcamp
-- :computer:  I’m currently learning Salesforce Development
+- :computer:  I’m currently a Salesforce Developer
 - :office:  I'm actively studying different technologies to increase my knowledge
 - 🤔  Always interested in finding new studying sources and approaches 
 - :spaghetti: Fun fact: I prepare the best pasta recipes ever
