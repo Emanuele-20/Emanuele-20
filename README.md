@@ -11,7 +11,7 @@
 
 - :blue_book:  Graduated from [Makers Academy](https://www.makers.tech), an immersive cooding bootcamp
 - :computer:  Currently working as Salesforce Developer ☁️ at 365 Business Finance
-- :office:  Actively studying different technologies and approaches 
+- :office:  Actively studying different technologies and working methodologies  
 - :spaghetti: Fun fact: I prepare the best pasta recipes ever
 - ⚡ My [Git-Hub CV](https://github.com/Emanuele-20/CV)  is ready to be viewed, give it a shot
 
